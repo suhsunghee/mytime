@@ -31,7 +31,9 @@ plugins:
 # Sidebar Profile Configuration
 author:
   name   : "Sunghee Suh"
-  avatar : "/assets/images/bio-photo.jpg" # You can add a profile image here later
+  avatar : yamlauthor:
+  name   : "Sunghee Suh"
+  avatar : "/assets/images/IMG_0341.jpeg" # You can add a profile image here later
   bio    : "Researching the physics, philosophy, and perception of time."
   links:
     - label: "GitHub"
