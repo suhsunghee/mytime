@@ -1,11 +1,11 @@
 # Welcome to Jekyll!
 # Site settings
-title: "Time: can we understand better?"
+title: "Time: to understand"
 description: "A research blog and reading log exploring the nature of time through the lenses of physics, philosophy, and data."
 url: "https://suhsunghee.github.io"
 baseurl: "/mytime"
 github_username: suhsunghee
-minimal_mistakes_skin: "neon"
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
