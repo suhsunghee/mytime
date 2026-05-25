@@ -5,7 +5,7 @@ description: "A research blog and reading log exploring the nature of time throu
 url: "https://suhsunghee.github.io"
 baseurl: "/mytime"
 github_username: suhsunghee
-minimal_mistakes_skin: "mint"
+minimal_mistakes_skin: "neon"
 search: true
 
 # Build settings
@@ -30,8 +30,8 @@ plugins:
 
 # Sidebar Profile Configuration
 author:
-  name   : "Sunghee Suh"
-  avatar : "/assets/images/IMG_0341.jpeg"
+  name   : "Sunghee"
+  avatar : "/assets/images/IMG_0335.jpeg"
   bio    : "Researching the physics, philosophy, and perception of time."
   links:
     - label: "GitHub"
