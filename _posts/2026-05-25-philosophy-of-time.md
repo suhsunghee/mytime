@@ -3,6 +3,7 @@ title: "The Physics and Philosophy of Time: A Brief Summary"
 date: 2026-05-25
 categories: [physics, philosophy]
 tags: [entropy, spacetime, books]
+mathjax: true
 ---
 
 ## 📚 Book Review: "The Order of Time" by Carlo Rovelli
@@ -17,7 +18,7 @@ I am kicked off my research deep-dive exploring how physics maps onto our philos
 ---
 
 ## 📐 Mathematical Check: Spacetime Interval
-In Minkowski space, the invariant spacetime interval ($ds^2$) is modeled elegantly without complex embedding:
+In Minkowski space, the invariant spacetime interval ($$ds^2$$) is modeled elegantly without complex embedding:
 
 $$ds^2 = -c^2 dt^2 + dx^2 + dy^2 + dz^2$$
 
