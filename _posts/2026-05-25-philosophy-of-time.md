@@ -2,7 +2,6 @@
 title: "The Physics and Philosophy of Time: A Brief Summary"
 date: 2026-05-25
 categories: [physics, philosophy]
-tags: [entropy, spacetime, books]
 mathjax: true
 ---
 
