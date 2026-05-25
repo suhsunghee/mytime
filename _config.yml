@@ -5,7 +5,7 @@ description: "A research blog and reading log exploring the nature of time throu
 url: "https://github.io"
 baseurl: "/mytime"
 github_username: suhsunghee
-minimal_mistakes_skin: mint
+minimal_mistakes_skin: "mint"
 search: true
 
 # Build settings
