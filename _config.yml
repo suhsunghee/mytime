@@ -2,7 +2,7 @@
 # Site settings
 title: "Time: Philosophy & Physics"
 description: "A research blog and reading log exploring the nature of time through the lenses of physics, philosophy, and data."
-url: "https://github.io"
+url: "https://suhsunghee.github.io"
 baseurl: "/mytime"
 github_username: suhsunghee
 minimal_mistakes_skin: "mint"
@@ -14,7 +14,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 
 paginate_path: /page:num/
-timezone: America/New_York # Change this to your preferred time zone if desired
+timezone: America/New_York
 
 include:
   - _pages
@@ -31,9 +31,7 @@ plugins:
 # Sidebar Profile Configuration
 author:
   name   : "Sunghee Suh"
-  avatar : yamlauthor:
-  name   : "Sunghee Suh"
-  avatar : "/assets/images/IMG_0341.jpeg" # You can add a profile image here later
+  avatar : "/assets/images/IMG_0341.jpeg"
   bio    : "Researching the physics, philosophy, and perception of time."
   links:
     - label: "GitHub"
@@ -56,7 +54,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: false # Set to false since you don't have a comment system set up yet
+      comments: false
       share: true
       related: true
   # _pages Settings
